@@ -1,4 +1,4 @@
-Server Log Analyzer
+# Server Log Analyzer
 
 Einfaches, webbasiertes Dashboard zur Analyse von Server-Logs.
 Dieses Tool hilft dabei, wichtige Fehlermeldungen und Warnungen, auf Anhieb zu finden, anstatt sich durch tausende Zeilen Text wühlen zu müssen.
@@ -11,6 +11,6 @@ Dieses Tool hilft dabei, wichtige Fehlermeldungen und Warnungen, auf Anhieb zu f
 
 ## Installation & Start
 1. Repository klonen oder herunterladen.
-2. Voraussetzungen insatllieren:
+2. Voraussetzungen installieren:
    ```bash
    pip install -r requirements.txt
